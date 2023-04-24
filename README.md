@@ -1,5 +1,7 @@
-# Assignment (AI)
-# Genetic Algorithms for Feature Selection
+# Artificial Intelligence Technique
+# Genetic Algorithms GA
+
+This is a demonstration of AI Technique, genetic algorithm (GA), used for feature selection.
 
 Goals:
 - Implement a genetic algorithm to select the most impactful features in a dataset.
